@@ -109,6 +109,7 @@ class HscriptColor			// FlxColor can't be used with hscript directly so we gotta
 	public static var BROWN = FlxColor.BROWN;
 	public static var CYAN = FlxColor.CYAN;
 	public static var GRAY = FlxColor.GRAY;
+	public static var LIGHTGRAY = FlxColor.LIGHTGRAY;
 	public static var GREEN = FlxColor.GREEN;
 	public static var LIME = FlxColor.LIME;
 	public static var MAGENTA = FlxColor.MAGENTA;
